@@ -1,0 +1,147 @@
+2026-11-12 21:19:44,144INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:19:44,188ERRORR1: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:19:44,198INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:19:44,209ERRORR2: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:19:44,221INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:19:44,233ERRORR3: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:02,490INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:02,506ERRORR1: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:02,516INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:02,583ERRORR2: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:02,608INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:02,623ERRORR3: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:11,425INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:11,443ERRORR1: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:11,453INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:11,464ERRORR2: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:11,476INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:11,488ERRORR3: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:14,620INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:14,639ERRORR1: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:14,650INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:14,662ERRORR2: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:14,675INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:14,688ERRORR3: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:17,690INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:17,706ERRORR1: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:17,716INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:17,727ERRORR2: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:17,740INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:17,751ERRORR3: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:20,889INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:20,907ERRORR1: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:20,920INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:20,934ERRORR2: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:20,945INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:20,956ERRORR3: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:24,091INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:24,111ERRORR1: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:24,122INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:24,135ERRORR2: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:20:24,147INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:20:24,159ERRORR3: backup FALHOU (SSHException:No authentication methods available)
+2026-11-12 21:22:10,831INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:22:11,164INFOAuthentication (publickey) successful!
+2026-11-12 21:22:14,268INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:22:14,324INFO[chan 0] sftp session closed.
+2026-11-12 21:22:14,333INFOR1: backup OK embackups/R1/2026-11-12_212210.cfg (removidos:0)
+2026-11-12 21:22:14,347INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:22:14,431INFOAuthentication (publickey) successful!
+2026-11-12 21:22:14,692INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:22:14,799INFO[chan 0] sftp session closed.
+2026-11-12 21:22:14,804INFOR2: backup OK embackups/R2/2026-11-12_212214.cfg (removidos:0)
+2026-11-12 21:22:14,814INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:22:14,902INFOAuthentication (publickey) successful!
+2026-11-12 21:22:15,198INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:22:15,231INFO[chan 0] sftp session closed.
+2026-11-12 21:22:15,235INFOR3: backup OK embackups/R3/2026-11-12_212214.cfg (removidos:0)
+2026-11-12 21:23:16,236INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:16,551INFOAuthentication (publickey) successful!
+2026-11-12 21:23:19,522INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:19,551INFO[chan 0] sftp session closed.
+2026-11-12 21:23:19,559INFOR1: backup OK embackups/R1/2026-11-12_212316.cfg (removidos:0)
+2026-11-12 21:23:19,578INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:19,650INFOAuthentication (publickey) successful!
+2026-11-12 21:23:19,889INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:19,899INFO[chan 0] sftp session closed.
+2026-11-12 21:23:19,904INFOR2: backup OK embackups/R2/2026-11-12_212319.cfg (removidos:0)
+2026-11-12 21:23:19,914INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:19,987INFOAuthentication (publickey) successful!
+2026-11-12 21:23:20,286INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:20,311INFO[chan 0] sftp session closed.
+2026-11-12 21:23:20,317INFOR3: backup OK embackups/R3/2026-11-12_212319.cfg (removidos:0)
+2026-11-12 21:23:23,132INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:23,199INFOAuthentication (publickey) successful!
+2026-11-12 21:23:23,284INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:23,296INFO[chan 0] sftp session closed.
+2026-11-12 21:23:23,301INFOR1: backup OK embackups/R1/2026-11-12_212323.cfg (removidos:0)
+2026-11-12 21:23:23,315INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:23,379INFOAuthentication (publickey) successful!
+2026-11-12 21:23:23,483INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:23,494INFO[chan 0] sftp session closed.
+2026-11-12 21:23:23,498INFOR2: backup OK embackups/R2/2026-11-12_212323.cfg (removidos:0)
+2026-11-12 21:23:23,510INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:23,572INFOAuthentication (publickey) successful!
+2026-11-12 21:23:23,664INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:23,675INFO[chan 0] sftp session closed.
+2026-11-12 21:23:23,680INFOR3: backup OK embackups/R3/2026-11-12_212323.cfg (removidos:0)
+2026-11-12 21:23:26,522INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:26,594INFOAuthentication (publickey) successful!
+2026-11-12 21:23:26,688INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:26,699INFO[chan 0] sftp session closed.
+2026-11-12 21:23:26,704INFOR1: backup OK embackups/R1/2026-11-12_212326.cfg (removidos:0)
+2026-11-12 21:23:26,715INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:26,776INFOAuthentication (publickey) successful!
+2026-11-12 21:23:26,852INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:26,862INFO[chan 0] sftp session closed.
+2026-11-12 21:23:26,865INFOR2: backup OK embackups/R2/2026-11-12_212326.cfg (removidos:0)
+2026-11-12 21:23:26,876INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:26,940INFOAuthentication (publickey) successful!
+2026-11-12 21:23:27,027INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:27,037INFO[chan 0] sftp session closed.
+2026-11-12 21:23:27,041INFOR3: backup OK embackups/R3/2026-11-12_212326.cfg (removidos:0)
+2026-11-12 21:23:29,922INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:29,987INFOAuthentication (publickey) successful!
+2026-11-12 21:23:30,063INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:30,073INFO[chan 0] sftp session closed.
+2026-11-12 21:23:30,078INFOR1: backup OK embackups/R1/2026-11-12_212329.cfg (removidos:0)
+2026-11-12 21:23:30,089INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:30,156INFOAuthentication (publickey) successful!
+2026-11-12 21:23:30,266INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:30,277INFO[chan 0] sftp session closed.
+2026-11-12 21:23:30,281INFOR2: backup OK embackups/R2/2026-11-12_212330.cfg (removidos:0)
+2026-11-12 21:23:30,293INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:30,356INFOAuthentication (publickey) successful!
+2026-11-12 21:23:30,447INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:30,456INFO[chan 0] sftp session closed.
+2026-11-12 21:23:30,460INFOR3: backup OK embackups/R3/2026-11-12_212330.cfg (removidos:0)
+2026-11-12 21:23:33,287INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:33,355INFOAuthentication (publickey) successful!
+2026-11-12 21:23:33,449INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:33,460INFO[chan 0] sftp session closed.
+2026-11-12 21:23:33,466INFOR1: backup OK embackups/R1/2026-11-12_212333.cfg (removidos:1)
+2026-11-12 21:23:33,476INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:33,544INFOAuthentication (publickey) successful!
+2026-11-12 21:23:33,628INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:33,639INFO[chan 0] sftp session closed.
+2026-11-12 21:23:33,649INFOR2: backup OK embackups/R2/2026-11-12_212333.cfg (removidos:1)
+2026-11-12 21:23:33,662INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:33,724INFOAuthentication (publickey) successful!
+2026-11-12 21:23:33,797INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:33,807INFO[chan 0] sftp session closed.
+2026-11-12 21:23:33,814INFOR3: backup OK embackups/R3/2026-11-12_212333.cfg (removidos:1)
+2026-11-12 21:23:36,682INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:36,755INFOAuthentication (publickey) successful!
+2026-11-12 21:23:36,831INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:36,842INFO[chan 0] sftp session closed.
+2026-11-12 21:23:36,849INFOR1: backup OK embackups/R1/2026-11-12_212336.cfg (removidos:1)
+2026-11-12 21:23:36,860INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:36,924INFOAuthentication (publickey) successful!
+2026-11-12 21:23:36,997INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:37,009INFO[chan 0] sftp session closed.
+2026-11-12 21:23:37,017INFOR2: backup OK embackups/R2/2026-11-12_212336.cfg (removidos:1)
+2026-11-12 21:23:37,027INFOConnected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 21:23:37,092INFOAuthentication (publickey) successful!
+2026-11-12 21:23:37,171INFO[chan 0] Opened sftp connection (server version 3)
+2026-11-12 21:23:37,182INFO[chan 0] sftp session closed.
+2026-11-12 21:23:37,188INFOR3: backup OK embackups/R3/2026-11-12_212337.cfg (removidos:1)
