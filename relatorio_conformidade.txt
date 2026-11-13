@@ -1,0 +1,18 @@
+==========================================================
+       RELATÓRIO DE AUDITORIA DE CONFORMIDADE (DRIFT)     
+       Data/Hora: 2026-11-12 21:42:49
+==========================================================
+
+Dispositivo: R1 -> Status: [CONFORME]
+
+Dispositivo: R2 -> Status: [NÃO CONFORME]
+Diferenças encontradas (- esperado | + encontrado):
+  --- referencia.cfg
+  +++ R2:dispositivo.cfg
+  @@ -1,3 +1,3 @@
+   ntp_server=10.0.0.50
+  -snmp_community=corp_ro_99
+  +snmp_community=public
+   banner_motd=Acesso restrito a administradores
+
+Dispositivo: R3 -> Status: [CONFORME]
