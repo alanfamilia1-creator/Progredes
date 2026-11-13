@@ -1,0 +1,4 @@
+nome,whoami,hostname,uname -r,uptime -p
+R1,r1,par391874b,6.18.33.2-microsoft-standard-WSL2,"up 1 hour, 10 minutes"
+R2,r2,par391874b,6.18.33.2-microsoft-standard-WSL2,"up 1 hour, 10 minutes"
+R3,r3,par391874b,6.18.33.2-microsoft-standard-WSL2,"up 1 hour, 10 minutes"
